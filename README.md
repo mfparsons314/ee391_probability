@@ -12,11 +12,25 @@ The focus is on building intuition through:
 - Estimating probabilities from data
 - Simulating experiments using Monte Carlo methods
 
-## Notes
+## Getting Started (JupyterLab)
 
-- These notebooks are designed for clarity and live instruction rather than completeness.
-- Code is intentionally simple and avoids unnecessary abstractions.
-- Students are encouraged to experiment and extend the examples.
+This repository is designed to be used in a **JupyterLab environment** (e.g., JupyterHub).
+
+To clone the repository in JupyterLab:
+
+1. Open JupyterLab  
+2. Click the **Git icon** in the left sidebar  
+   - or use the **"Git" menu → "Clone a Repository"**  
+3. Paste the repository URL: https://github.com/mfparsons314/ee391_probability
+
+
+### Notes for JupyterLab
+
+- You will be working in your **own copy** of this repository.
+- Feel free to modify notebooks, run cells, and experiment with the code.
+- Your changes will not affect other students.
+
+## Notes
 
 ## License
 
