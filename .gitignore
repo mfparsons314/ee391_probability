@@ -4,6 +4,9 @@
 *.pyc
 *.ipynb_checkpoints
 *.egg-info
+*.gif
+*.pdf
+*.png
 /__pycache__
 /.ipynb_checkpoints/
 */__pycache__
